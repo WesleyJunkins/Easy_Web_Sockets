@@ -1,0 +1,12 @@
+{
+    "name": "socket-web-test",
+    "version": "0.0.1",
+    "description": "Test web environment for socket communication.",
+    "type": "module",
+    "dependencies": {
+        "express": "^4.19.2",
+        "socket.io": "^4.7.5",
+        "websockets": "^0.2.0",
+        "ws": "^8.18.0"
+    }
+}
